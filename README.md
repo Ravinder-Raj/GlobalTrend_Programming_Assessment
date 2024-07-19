@@ -14,7 +14,7 @@ Ensure you have Node.js and npm installed on your machine. You can download them
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+    git clone https://github.com/Ravinder-Raj/GlobalTrend_Programming_Assessment.git
     cd YOUR_REPOSITORY
     ```
 
